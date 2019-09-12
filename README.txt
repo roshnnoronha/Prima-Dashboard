@@ -9,7 +9,7 @@ The PRIMA (PRoject Information MAnagement) Dashboard is a free and open source A
 engineering project information such as activity hour logs, deliverable status and commodities. While the database is designed keeping 
 the typical engineering design office in mind, it can be used in any situations where hours, deliverables and commodities needs to be tracked. 
 
-The database already contains a set sample data to explore. To temporarily open the utiltity and access this data use the User Name:roshn 
+The database already contains a set of sample data. To open the utility and access this data use the User Name:roshn 
 and password:guest@123
 
 Created By: 
